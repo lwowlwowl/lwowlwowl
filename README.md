@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lwowlwowl
-- 🏫 University of Nottingham Ningbo China (Computer Science and Artificial Science)
-- 🏹 Swift Student Challenge
-- 🌱 I’m currently learning Swift
+- 🏫 University of Nottingham Ningbo China (Computer Science and Artificial Intelligence)
+- 🏹 none (leisure-oriented)
+- 🌱 I’m currently learning wxml, wxss, js
 
 <!---
 lwowlwowl/lwowlwowl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
