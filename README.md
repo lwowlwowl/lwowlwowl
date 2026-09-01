@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Wanghaochen;CS+%26+AI+student+%40+UNNC;welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+lwowlwowl;CS+%26+AI+student+%40+UNNC;welcome+to+my+profile!)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,14 +33,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lwowlwowl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwowlwowl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-sable-seven-10.vercel.app/api?username=lwowlwowl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sable-seven-10.vercel.app/api/top-langs/?username=lwowlwowl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lwowlwowl&theme=tokyonight&hide_border=true" alt="GitHub streak" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=lwowlwowl&theme=tokyonight&hide_border=true" alt="GitHub streak" width="70%" />
 
 </div>
 
